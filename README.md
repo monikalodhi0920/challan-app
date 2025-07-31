@@ -42,8 +42,6 @@ App will run on: http://localhost:3000
 📌 TODO
 ✅ Form validation
 ✅ Mobile responsiveness
-⬜ Backend integration (optional)
-⬜ PDF/challan download feature
 
 🛠️ Tech Stack
 React (with JSX)
